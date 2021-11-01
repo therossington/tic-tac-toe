@@ -1,0 +1,1 @@
+Tic Tac Toe project for The Odin project, using JS, CSS and HTML. The goal being to build a Tic-Tac-Toe game board using JS factory functions and modules.
